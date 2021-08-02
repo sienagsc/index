@@ -1,0 +1,18 @@
+#Tihs file defines all categories that live within a parent category
+
+
+subcategory-one:
+  name: Subcategory One
+  parent-category: first-category
+  parent-category-name: First Category
+  description: This is your first subcategory!
+subcategory-two:
+  name: Subcategory Two
+  parent-category: first-category
+  parent-category-name: First Category
+  description: This is your second subcategory!
+subcategory-three:
+  name: Subcategory Three
+  parent-category: first-category
+  parent-category-name: First Category
+  description: This is your third subcategory!
