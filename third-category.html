@@ -1,0 +1,9 @@
+---
+layout: category
+category: third-category
+title: Third Category
+---
+
+{% for post in site.categories.third-category%}
+  {% include article-card.html %}
+{% endfor %}
